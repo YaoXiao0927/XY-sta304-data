@@ -65,7 +65,7 @@ ggplot(bluetooth_travel_time_summary, aes(x=baseline_travel_time,y=average_trave
 
 #References
 
-
+- citeotd, Open Data Dataset. (n.d.). Retrieved September 23, 2020, from https://open.toronto.ca/dataset/king-st-transit-pilot-detailed-bluetooth-travel-time/
 
 
 
