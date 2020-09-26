@@ -1,0 +1,1823 @@
+_id,month,street,direction,from_intersection,to_intersection,day_type,time_period,baseline_travel_time,average_travel_time
+1,Nov '17,Adelaide,Eastbound,Spadina,Jarvis,Weekday,AM Peak (07:00-10:00),7.9,7.1
+2,Nov '17,Adelaide,Eastbound,Spadina,Jarvis,Weekday,Evening (19:00-23:00),8.1,7.3
+3,Nov '17,Adelaide,Eastbound,Spadina,Jarvis,Weekday,Midday (10:00-16:00),9.4,8.5
+4,Nov '17,Adelaide,Eastbound,Spadina,Jarvis,Weekday,PM Peak (16:00-19:00),14.7,14.0
+5,Nov '17,Adelaide,Eastbound,Spadina,Jarvis,Weekend,Afternoon (12:00-17:00),7.1,6.8
+6,Nov '17,Adelaide,Eastbound,Spadina,Jarvis,Weekend,Evening (17:00-23:00),7.7,6.3
+7,Nov '17,Adelaide,Eastbound,Spadina,Jarvis,Weekend,Morning (08:00-12:00),4.8,5.0
+8,Nov '17,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.4
+9,Nov '17,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,4.9
+10,Nov '17,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.2
+11,Nov '17,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,6.2
+12,Nov '17,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.1
+13,Nov '17,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,4.9
+14,Nov '17,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,3.9
+15,Nov '17,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,6.0
+16,Nov '17,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.5
+17,Nov '17,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,5.8
+18,Nov '17,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.1
+19,Nov '17,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,5.8
+20,Nov '17,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.5
+21,Nov '17,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.2
+22,Nov '17,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.8
+23,Nov '17,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,11.2
+24,Nov '17,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,13.0
+25,Nov '17,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,14.5
+26,Nov '17,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,16.2
+27,Nov '17,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,15.1
+28,Nov '17,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.9
+29,Nov '17,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.8
+30,Nov '17,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,11.4
+31,Nov '17,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,13.4
+32,Nov '17,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,14.9
+33,Nov '17,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,15.7
+34,Nov '17,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,14.3
+35,Nov '17,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,9.6
+36,Nov '17,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,13.5
+37,Nov '17,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.7
+38,Nov '17,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,11.8
+39,Nov '17,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,18.5
+40,Nov '17,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,14.9
+41,Nov '17,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,14.5
+42,Nov '17,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.8
+43,Nov '17,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,8.5
+44,Nov '17,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,10.8
+45,Nov '17,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,10.9
+46,Nov '17,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,16.9
+47,Nov '17,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,10.6
+48,Nov '17,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,10.7
+49,Nov '17,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,7.7
+50,Nov '17,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.1
+51,Nov '17,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.7
+52,Nov '17,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.1
+53,Nov '17,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,10.2
+54,Nov '17,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,5.9
+55,Nov '17,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,4.3
+56,Nov '17,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.6
+57,Nov '17,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.5
+58,Nov '17,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.3
+59,Nov '17,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,5.2
+60,Nov '17,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,5.0
+61,Nov '17,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,5.2
+62,Nov '17,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,5.0
+63,Nov '17,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.7
+64,Nov '17,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,11.8
+65,Nov '17,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,12.2
+66,Nov '17,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.4
+67,Nov '17,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,16.3
+68,Nov '17,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,16.8
+69,Nov '17,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,16.3
+70,Nov '17,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.3
+71,Nov '17,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,10.3
+72,Nov '17,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,12.0
+73,Nov '17,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,13.9
+74,Nov '17,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,15.4
+75,Nov '17,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,15.1
+76,Nov '17,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,14.9
+77,Nov '17,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,9.4
+78,Nov '17,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,10.1
+79,Nov '17,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,8.8
+80,Nov '17,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,11.9
+81,Nov '17,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,15.4
+82,Nov '17,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,11.7
+83,Nov '17,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,12.6
+84,Nov '17,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,7.2
+85,Nov '17,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.7
+86,Nov '17,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.2
+87,Nov '17,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,7.3
+88,Nov '17,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,11.2
+89,Nov '17,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,9.2
+90,Nov '17,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,6.7
+91,Nov '17,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.2
+92,Nov '17,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,5.8
+93,Nov '17,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,6.1
+94,Nov '17,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.3
+95,Nov '17,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.0
+96,Nov '17,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.4
+97,Nov '17,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,7.1
+98,Nov '17,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.1
+99,Nov '17,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.3
+100,Nov '17,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.5
+101,Nov '17,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.0
+102,Nov '17,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,10.4
+103,Nov '17,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,5.7
+104,Nov '17,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.3
+105,Nov '17,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.5
+106,Nov '17,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,8.3
+107,Nov '17,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,6.0
+108,Nov '17,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.4
+109,Nov '17,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.5
+110,Nov '17,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,7.0
+111,Nov '17,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,5.2
+112,Nov '17,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,4.5
+113,Nov '17,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,8.2
+114,Nov '17,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,7.3
+115,Nov '17,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,8.9
+116,Nov '17,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,11.7
+117,Nov '17,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,9.7
+118,Nov '17,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,7.7
+119,Nov '17,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,7.3
+120,Nov '17,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.5
+121,Nov '17,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,6.4
+122,Nov '17,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,7.7
+123,Nov '17,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,10.2
+124,Nov '17,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,8.1
+125,Nov '17,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,8.2
+126,Nov '17,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,5.3
+127,Nov '17,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,6.5
+128,Nov '17,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,6.4
+129,Nov '17,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,8.1
+130,Nov '17,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,8.3
+131,Nov '17,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,9.9
+132,Nov '17,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,8.4
+133,Nov '17,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,5.1
+134,Dec '17,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,4.6
+135,Dec '17,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,4.6
+136,Dec '17,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,4.7
+137,Dec '17,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,5.6
+138,Dec '17,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,4.4
+139,Dec '17,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,4.3
+140,Dec '17,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,3.6
+141,Dec '17,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.4
+142,Dec '17,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.2
+143,Dec '17,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,5.8
+144,Dec '17,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.1
+145,Dec '17,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,5.1
+146,Dec '17,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.0
+147,Dec '17,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.0
+148,Dec '17,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.3
+149,Dec '17,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,11.4
+150,Dec '17,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,13.3
+151,Dec '17,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,15.2
+152,Dec '17,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,13.0
+153,Dec '17,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,13.3
+154,Dec '17,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.2
+155,Dec '17,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.4
+156,Dec '17,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,11.6
+157,Dec '17,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,13.6
+158,Dec '17,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,14.7
+159,Dec '17,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,13.3
+160,Dec '17,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,13.6
+161,Dec '17,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,9.0
+162,Dec '17,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,11.1
+163,Dec '17,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.2
+164,Dec '17,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,12.1
+165,Dec '17,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,17.1
+166,Dec '17,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,10.5
+167,Dec '17,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,11.9
+168,Dec '17,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,8.2
+169,Dec '17,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,8.7
+170,Dec '17,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,10.5
+171,Dec '17,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,10.5
+172,Dec '17,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,14.9
+173,Dec '17,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,8.6
+174,Dec '17,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,10.0
+175,Dec '17,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,7.3
+176,Dec '17,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,3.7
+177,Dec '17,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.6
+178,Dec '17,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.3
+179,Dec '17,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,9.7
+180,Dec '17,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,4.3
+181,Dec '17,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,3.9
+182,Dec '17,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.5
+183,Dec '17,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.2
+184,Dec '17,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.3
+185,Dec '17,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,5.2
+186,Dec '17,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,4.6
+187,Dec '17,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.5
+188,Dec '17,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.5
+189,Dec '17,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.6
+190,Dec '17,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.0
+191,Dec '17,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,13.1
+192,Dec '17,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.9
+193,Dec '17,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,18.4
+194,Dec '17,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,14.2
+195,Dec '17,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,14.3
+196,Dec '17,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.2
+197,Dec '17,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,10.5
+198,Dec '17,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,12.1
+199,Dec '17,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,14.4
+200,Dec '17,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,15.8
+201,Dec '17,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,13.5
+202,Dec '17,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,13.7
+203,Dec '17,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,8.9
+204,Dec '17,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,8.2
+205,Dec '17,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,8.6
+206,Dec '17,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,11.7
+207,Dec '17,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,14.0
+208,Dec '17,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,8.8
+209,Dec '17,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,9.4
+210,Dec '17,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,6.5
+211,Dec '17,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.4
+212,Dec '17,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.1
+213,Dec '17,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,7.1
+214,Feb '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,4.9
+215,Dec '17,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,9.2
+216,Dec '17,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,6.5
+217,Dec '17,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,5.8
+218,Dec '17,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.1
+219,Dec '17,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,5.4
+220,Dec '17,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,6.3
+221,Dec '17,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.7
+222,Dec '17,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.0
+223,Dec '17,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.1
+224,Dec '17,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,6.3
+225,Dec '17,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.0
+226,Dec '17,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.3
+227,Dec '17,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.7
+228,Dec '17,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.0
+229,Dec '17,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,8.4
+230,Dec '17,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,3.4
+231,Dec '17,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.0
+232,Dec '17,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.1
+233,Dec '17,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.5
+234,Dec '17,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.9
+235,Dec '17,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.4
+236,Dec '17,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.3
+237,Dec '17,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.2
+238,Dec '17,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,4.8
+239,Dec '17,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,3.7
+240,Dec '17,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,8.4
+241,Dec '17,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,7.5
+242,Dec '17,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,8.8
+243,Dec '17,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,10.6
+244,Dec '17,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,8.5
+245,Dec '17,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,7.6
+246,Dec '17,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,7.1
+247,Dec '17,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.2
+248,Dec '17,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,6.3
+249,Dec '17,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,7.0
+250,Dec '17,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,9.7
+251,Dec '17,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,7.0
+252,Dec '17,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,6.8
+253,Dec '17,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,4.9
+254,Dec '17,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,5.6
+255,Dec '17,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,6.6
+256,Dec '17,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,7.6
+257,Dec '17,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,8.0
+258,Dec '17,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.5
+259,Dec '17,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,7.6
+260,Dec '17,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,4.9
+261,Jan '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,4.8
+262,Jan '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,4.6
+263,Jan '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,4.5
+264,Jan '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,5.7
+265,Jan '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,4.5
+266,Jan '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,4.5
+267,Jan '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,3.7
+268,Jan '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.6
+269,Jan '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,4.9
+270,Jan '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,5.5
+271,Jan '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.1
+272,Jan '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,5.4
+273,Jan '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.0
+274,Jan '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.0
+275,Jan '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,11.1
+276,Jan '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,10.2
+277,Jan '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,12.4
+278,Jan '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,13.6
+279,Jan '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,12.5
+280,Jan '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,10.9
+281,Jan '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.1
+282,Jan '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.7
+283,Jan '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,10.7
+284,Jan '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,13.2
+285,Jan '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,13.5
+286,Jan '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,12.6
+287,Jan '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,12.2
+288,Jan '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,8.7
+289,Jan '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,13.4
+290,Jan '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.0
+291,Jan '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,11.1
+292,Jan '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,15.9
+293,Jan '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,10.6
+294,Jan '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,12.8
+295,Jan '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,8.8
+296,Jan '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,9.0
+297,Jan '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,9.8
+298,Jan '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,9.3
+299,Jan '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,13.7
+300,Jan '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,8.6
+301,Jan '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,10.1
+302,Jan '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,7.7
+303,Jan '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,3.9
+304,Jan '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.5
+305,Jan '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,4.8
+306,Jan '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,9.0
+307,Jan '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,3.7
+308,Jan '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,3.5
+309,Jan '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.1
+310,Jan '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.3
+311,Jan '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,3.9
+312,Jan '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,4.6
+313,Jan '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,4.4
+314,Jan '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.3
+315,Jan '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,3.9
+316,Jan '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.4
+317,Jan '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.1
+318,Jan '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,11.3
+319,Jan '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,13.7
+320,Jan '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,14.8
+321,Jan '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,13.4
+322,Jan '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,11.9
+323,Jan '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.0
+324,Jan '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,11.0
+325,Jan '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,11.1
+326,Jan '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,12.9
+327,Jan '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,14.3
+328,Jan '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,13.0
+329,Jan '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,11.7
+330,Jan '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,8.8
+331,Jan '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,8.9
+332,Jan '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,7.5
+333,Jan '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,10.0
+334,Jan '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,12.9
+335,Jan '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,8.3
+336,Jan '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,8.2
+337,Jan '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,6.4
+338,Jan '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.6
+339,Jan '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,5.7
+340,Jan '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,6.9
+341,Jan '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,10.0
+342,Jan '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,6.4
+343,Jan '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,6.0
+344,Jan '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.0
+345,Jan '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,5.4
+346,Jan '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,5.8
+347,Jan '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,6.9
+348,Jan '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,7.7
+349,Jan '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.2
+350,Jan '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,6.4
+351,Jan '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.0
+352,Jan '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.4
+353,Jan '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.2
+354,Jan '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,4.5
+355,Jan '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,8.4
+356,Jan '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,3.5
+357,Jan '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.2
+358,Jan '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.1
+359,Jan '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.6
+360,Jan '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.6
+361,Jan '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.1
+362,Jan '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.0
+363,Jan '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.1
+364,Jan '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,4.6
+365,Jan '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,3.6
+366,Jan '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,8.7
+367,Jan '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,7.3
+368,Jan '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,8.0
+369,Jan '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,10.0
+370,Jan '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,8.6
+371,Jan '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,7.9
+372,Jan '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,7.0
+373,Jan '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.7
+374,Jan '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,5.8
+375,Jan '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,6.4
+376,Jan '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,8.6
+377,Jan '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,6.2
+378,Jan '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,6.7
+379,Jan '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,4.7
+380,Jan '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,5.6
+381,Jan '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,5.4
+382,Jan '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,6.3
+383,Jan '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,6.8
+384,Jan '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,6.3
+385,Jan '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,6.3
+386,Jan '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,4.3
+387,Feb '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.3
+388,Feb '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.4
+389,Feb '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,6.1
+390,Feb '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,5.9
+391,Feb '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.0
+392,Feb '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.0
+393,Feb '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.0
+394,Feb '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.9
+395,Feb '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.5
+396,Feb '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.3
+397,Feb '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.4
+398,Feb '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,6.1
+399,Feb '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.6
+400,Feb '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.4
+401,Feb '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.7
+402,Feb '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,10.5
+403,Feb '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,12.2
+404,Feb '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,13.8
+405,Feb '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,12.2
+406,Feb '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,11.6
+407,Feb '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.3
+408,Feb '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.8
+409,Feb '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,11.1
+410,Feb '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,13.3
+411,Feb '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,14.3
+412,Feb '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,13.2
+413,Feb '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,11.8
+414,Feb '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,9.0
+415,Feb '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,13.0
+416,Feb '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.9
+417,Feb '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,11.8
+418,Feb '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,17.0
+419,Feb '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,13.1
+420,Feb '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,12.6
+421,Feb '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.3
+422,Feb '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,10.1
+423,Feb '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,10.5
+424,Feb '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,11.1
+425,Feb '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,17.3
+426,Feb '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,12.9
+427,Feb '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,11.9
+428,Feb '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,7.7
+429,Feb '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.1
+430,Feb '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.6
+431,Feb '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,5.2
+432,Feb '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,9.1
+433,Feb '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,3.8
+434,Feb '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,3.6
+435,Feb '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.2
+436,Feb '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.7
+437,Feb '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,3.9
+438,Feb '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,4.9
+439,Feb '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,4.3
+440,Feb '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.1
+441,Feb '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.0
+442,Feb '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.5
+443,Feb '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.0
+444,Feb '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,12.0
+445,Feb '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,13.8
+446,Feb '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,15.9
+447,Feb '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,13.9
+448,Feb '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,12.2
+449,Feb '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.0
+450,Feb '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,10.9
+451,Feb '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,11.4
+452,Feb '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,13.3
+453,Feb '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,15.3
+454,Feb '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,13.2
+455,Feb '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,12.0
+456,Feb '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,8.7
+457,Feb '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,9.7
+458,Feb '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,8.4
+459,Feb '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,14.4
+460,Feb '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,14.9
+461,Feb '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,10.1
+462,Feb '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,8.8
+463,Feb '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,6.6
+464,Feb '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.6
+465,Feb '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.2
+466,Feb '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,7.5
+467,Feb '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,8.8
+468,Feb '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,7.0
+469,Feb '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,6.3
+470,Feb '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.1
+471,Feb '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,5.8
+472,Feb '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,6.3
+473,Feb '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.7
+474,Feb '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.1
+475,Feb '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.7
+476,Feb '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,6.8
+477,Feb '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.5
+478,Feb '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.5
+479,Feb '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.4
+480,Feb '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.5
+481,Feb '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,9.7
+482,Feb '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,3.9
+483,Feb '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.2
+484,Feb '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.1
+485,Feb '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.8
+486,Feb '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,5.0
+487,Feb '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.7
+488,Feb '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.6
+489,Feb '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.1
+490,Feb '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,4.7
+491,Feb '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,3.5
+492,Feb '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,8.9
+493,Feb '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,7.4
+494,Feb '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,8.6
+495,Feb '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,10.9
+496,Feb '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,8.4
+497,Feb '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,7.3
+498,Feb '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,7.5
+499,Feb '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,6.1
+500,Feb '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,6.7
+501,Feb '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,7.6
+502,Feb '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,10.0
+503,Feb '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,6.3
+504,Feb '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,6.1
+505,Feb '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,6.8
+506,Feb '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,6.2
+507,Feb '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,7.9
+508,Feb '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,8.1
+509,Feb '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,6.4
+510,Feb '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,6.0
+511,Feb '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,4.6
+512,Mar '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.0
+513,Mar '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.5
+514,Mar '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.1
+515,Mar '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,5.7
+516,Mar '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.7
+517,Mar '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.3
+518,Mar '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.3
+519,Mar '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.8
+520,Mar '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.6
+521,Mar '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.2
+522,Mar '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.2
+523,Mar '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,6.9
+524,Mar '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,6.1
+525,Mar '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.6
+526,Mar '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.1
+527,Mar '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,10.5
+528,Mar '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,11.8
+529,Mar '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,13.1
+530,Mar '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,12.5
+531,Mar '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,11.7
+532,Mar '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.0
+533,Mar '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.2
+534,Mar '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,11.0
+535,Mar '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,12.4
+536,Mar '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,13.9
+537,Mar '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,13.7
+538,Mar '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,12.6
+539,Mar '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,8.6
+540,Mar '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,11.8
+541,Mar '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.9
+542,Mar '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,11.6
+543,Mar '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,16.0
+544,Mar '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,11.7
+545,Mar '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,12.5
+546,Mar '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.0
+547,Mar '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,10.5
+548,Mar '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,10.4
+549,Mar '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,11.5
+550,Mar '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,14.3
+551,Mar '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,10.1
+552,Mar '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,12.0
+553,Mar '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,8.7
+554,Mar '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,3.9
+555,Mar '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.5
+556,Mar '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,5.4
+557,Mar '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,7.6
+558,Jul '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.2
+559,Mar '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,4.4
+560,Mar '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,3.6
+561,Mar '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.4
+562,Mar '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.3
+563,Mar '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,3.9
+564,Mar '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,4.7
+565,Mar '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,4.4
+566,Mar '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.5
+567,Mar '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.1
+568,Mar '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.5
+569,Mar '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,11.4
+570,Mar '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,12.0
+571,Mar '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,13.8
+572,Mar '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,14.4
+573,Mar '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,16.0
+574,Mar '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,13.4
+575,Mar '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.9
+576,Mar '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,10.4
+577,Mar '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,11.3
+578,Mar '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,13.1
+579,Mar '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,14.9
+580,Mar '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,15.1
+581,Mar '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,12.3
+582,Mar '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,9.5
+583,Mar '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,8.9
+584,Mar '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,8.5
+585,Mar '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,11.3
+586,Mar '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,14.4
+587,Mar '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,10.8
+588,Mar '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,8.9
+589,Mar '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,6.8
+590,Mar '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.4
+591,Mar '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.4
+592,Mar '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,7.7
+593,Mar '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,8.8
+594,Mar '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,7.9
+595,Mar '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,7.2
+596,Mar '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.6
+597,Mar '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,5.4
+598,Mar '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,6.3
+599,Mar '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.2
+600,Mar '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,7.9
+601,Mar '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.7
+602,Mar '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,7.0
+603,Mar '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.3
+604,Mar '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.4
+605,Mar '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.6
+606,Mar '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.2
+607,Mar '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,9.0
+608,Mar '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,4.0
+609,Mar '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.3
+610,Mar '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.2
+611,Mar '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.6
+612,Mar '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.9
+613,Mar '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.4
+614,Mar '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.5
+615,Mar '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.8
+616,Mar '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,4.8
+617,Mar '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,3.6
+618,Mar '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,8.6
+619,Mar '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.2
+620,Mar '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,8.7
+621,Mar '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,10.2
+622,Mar '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,9.7
+623,Mar '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,8.1
+624,Mar '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,7.7
+625,Mar '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.6
+626,Mar '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,6.4
+627,Mar '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,7.1
+628,Mar '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,9.2
+629,Mar '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,7.5
+630,Mar '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,7.0
+631,Mar '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,4.9
+632,Mar '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,5.6
+633,Mar '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,6.1
+634,Mar '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,7.0
+635,Mar '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,7.5
+636,Mar '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.8
+637,Mar '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,6.9
+638,Mar '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,4.3
+639,Apr '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,9.7
+640,Apr '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,10.1
+641,Apr '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,11.2
+642,Apr '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,16.2
+643,Apr '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,9.6
+644,Apr '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,9.0
+645,Apr '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,6.7
+646,Apr '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.2
+647,Apr '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.1
+648,Apr '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.1
+649,Apr '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,5.9
+650,Apr '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.0
+651,Apr '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,4.7
+652,Apr '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.3
+653,Apr '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.7
+654,Apr '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.3
+655,Apr '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.3
+656,Apr '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.2
+657,Apr '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,5.8
+658,Apr '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.3
+659,Apr '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.5
+660,Apr '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.7
+661,Apr '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,10.4
+662,Apr '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,12.1
+663,Apr '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,12.3
+664,Apr '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,11.5
+665,Apr '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,10.3
+666,Apr '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.2
+667,Apr '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.4
+668,Apr '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,10.9
+669,Apr '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,12.3
+670,Apr '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,13.4
+671,Apr '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,12.8
+672,Apr '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,10.8
+673,Apr '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,8.5
+674,Apr '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,11.7
+675,Apr '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,12.1
+676,Apr '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,11.9
+677,Apr '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,17.3
+678,Apr '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,11.7
+679,Apr '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,11.6
+680,Apr '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.2
+681,Apr '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,9.5
+682,Apr '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,12.7
+683,Apr '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,10.6
+684,Apr '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,15.9
+685,Apr '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,11.1
+686,Apr '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,10.6
+687,Apr '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,8.7
+688,Apr '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.1
+689,Apr '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.6
+690,Apr '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.1
+691,Apr '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,10.3
+692,Apr '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,4.2
+693,Apr '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,3.7
+694,Apr '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.5
+695,Apr '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.3
+696,Apr '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.0
+697,Apr '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,4.9
+698,Apr '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,4.6
+699,Apr '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.8
+700,Apr '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.3
+701,Apr '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.7
+702,Apr '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.1
+703,Apr '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,11.7
+704,Apr '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.5
+705,Apr '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,13.6
+706,Apr '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,13.5
+707,Apr '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,10.9
+708,Apr '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.2
+709,Apr '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,10.3
+710,Apr '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,11.4
+711,Apr '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,13.0
+712,Apr '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,14.6
+713,Apr '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,12.9
+714,Apr '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,11.1
+715,Apr '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,8.5
+716,Apr '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,9.1
+717,Apr '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,8.1
+718,Apr '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,11.0
+719,Apr '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,14.1
+720,Apr '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,8.1
+721,Apr '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,7.6
+722,Apr '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,6.3
+723,Apr '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.6
+724,Apr '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,5.9
+725,Apr '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,9.3
+726,Apr '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,10.8
+727,Apr '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,6.7
+728,Apr '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,13.3
+729,Apr '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.2
+730,Apr '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,5.7
+731,Apr '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,6.3
+732,Apr '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.2
+733,Apr '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,7.4
+734,Apr '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.2
+735,Apr '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,6.1
+736,Apr '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.1
+737,Apr '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.4
+738,Apr '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.4
+739,Apr '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.6
+740,Apr '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,10.1
+741,Apr '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,4.2
+742,Apr '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.4
+743,Apr '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.0
+744,Apr '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.6
+745,Apr '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.9
+746,Apr '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.8
+747,Apr '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.4
+748,Apr '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.6
+749,Apr '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,4.5
+750,Apr '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,3.6
+751,Apr '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,8.9
+752,Jun '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.5
+753,Jun '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,5.1
+754,Jun '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,3.8
+755,Jun '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,9.2
+756,Jun '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.0
+757,Jun '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,10.3
+758,Jun '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,13.3
+759,Jun '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,8.9
+760,Jun '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,8.3
+761,Jun '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,8.1
+762,Jun '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,6.1
+763,Jun '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,7.4
+764,Jun '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,8.3
+765,Jun '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,12.0
+766,Jun '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,8.4
+767,Jun '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,8.1
+768,Jun '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,5.4
+769,Jun '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,6.7
+770,Apr '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.0
+771,Apr '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,9.5
+772,Apr '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,11.4
+773,Apr '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,8.7
+774,Apr '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,7.9
+775,Apr '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,8.3
+776,Apr '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.7
+777,Apr '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,6.8
+778,Apr '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,7.4
+779,Apr '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,10.4
+780,Apr '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,6.8
+781,Apr '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,6.1
+782,Apr '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,4.7
+783,Apr '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,5.8
+784,Apr '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,6.6
+785,Apr '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,7.7
+786,Apr '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,8.2
+787,Apr '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.3
+788,Apr '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,6.3
+789,Apr '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,4.2
+790,May '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,10.2
+791,May '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,9.6
+792,May '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,12.3
+793,May '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,17.3
+794,May '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,8.6
+795,May '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,9.2
+796,May '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,7.0
+797,May '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.1
+798,May '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.7
+799,May '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.5
+800,May '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,6.5
+801,May '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.8
+802,May '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.6
+803,May '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.8
+804,May '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.7
+805,May '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.7
+806,May '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.6
+807,May '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.3
+808,May '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,6.4
+809,May '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.8
+810,May '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,5.1
+811,May '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,12.0
+812,May '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,18.5
+813,May '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,13.6
+814,May '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,15.0
+815,May '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,10.2
+816,May '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,10.6
+817,May '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,14.5
+818,May '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,17.5
+819,May '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,11.9
+820,May '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,10.9
+821,May '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,12.3
+822,May '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,16.7
+823,May '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,11.6
+824,May '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,12.0
+825,May '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,11.3
+826,May '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,10.0
+827,May '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,9.6
+828,May '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,11.1
+829,May '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,15.6
+830,May '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,10.4
+831,May '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,11.4
+832,May '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,9.5
+833,May '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.1
+834,May '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.7
+835,May '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.4
+836,May '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,11.6
+837,May '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,4.0
+838,May '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,3.6
+839,May '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.9
+840,May '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.7
+841,May '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.2
+842,May '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,5.2
+843,May '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,4.8
+844,May '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.4
+845,May '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.4
+846,May '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.8
+847,May '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.3
+848,May '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,12.2
+849,May '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,14.7
+850,May '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,16.0
+851,May '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,14.5
+852,May '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,13.4
+853,May '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.9
+854,May '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,11.0
+855,May '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,11.8
+856,May '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,14.4
+857,May '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,17.8
+858,May '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,14.7
+859,May '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,13.1
+860,May '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,10.0
+861,May '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,10.3
+862,May '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,9.0
+863,May '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,13.4
+864,May '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,17.3
+865,May '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,9.7
+866,May '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,9.1
+867,May '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,7.6
+868,May '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.4
+869,May '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,20.8
+870,May '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,8.5
+871,May '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,9.9
+872,May '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,6.0
+873,May '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,10.1
+874,May '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,8.0
+875,May '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,9.0
+876,May '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.4
+877,May '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.5
+878,May '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,6.0
+879,May '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.0
+880,May '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,3.5
+881,May '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.1
+882,May '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.8
+883,May '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,8.0
+884,May '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.8
+885,May '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,6.1
+886,May '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.6
+887,May '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.7
+888,May '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,4.8
+889,May '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,4.4
+890,May '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,8.8
+891,May '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,7.3
+892,May '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,9.7
+893,May '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,12.3
+894,May '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,8.3
+895,May '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,8.4
+896,May '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,8.7
+897,May '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,6.9
+898,May '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,7.6
+899,May '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,9.5
+900,May '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.8
+901,May '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,9.4
+902,May '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,8.0
+903,May '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,7.6
+904,May '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,7.4
+905,May '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,7.2
+906,May '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,10.0
+907,May '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,10.5
+908,May '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,9.7
+909,May '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,9.4
+910,May '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,7.1
+911,Jun '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,9.7
+912,Jun '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,9.7
+913,Jun '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,12.2
+914,Jun '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,17.0
+915,Jun '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,9.1
+916,Jun '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,9.2
+917,Jun '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,6.7
+918,Jun '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.2
+919,Jun '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.4
+920,Jun '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.6
+921,Jun '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,6.6
+922,Jun '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.1
+923,Jun '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.0
+924,Jun '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.2
+925,Jun '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,6.1
+926,Jun '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,6.7
+927,Jun '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,7.8
+928,Jun '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,7.1
+929,Jun '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,5.9
+930,Jun '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.5
+931,Jun '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.6
+932,Jun '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,9.9
+933,Jun '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,11.5
+934,Jun '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,12.7
+935,Jun '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,12.6
+936,Jun '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,10.9
+937,Jun '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,12.1
+938,Jun '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.3
+939,Jun '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.3
+940,Jun '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,11.4
+941,Jun '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,12.7
+942,Jun '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,14.5
+943,Jun '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,10.4
+944,Jun '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,14.0
+945,Jun '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,8.3
+946,Jun '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,12.6
+947,Jun '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.2
+948,Jun '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,15.0
+949,Jun '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,19.3
+950,Jun '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,13.4
+951,Jun '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,12.6
+952,Jun '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.9
+953,Jun '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,9.8
+954,Jun '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,10.5
+955,Jun '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,12.5
+956,Jun '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,16.4
+957,Jun '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,12.6
+958,Jun '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,11.7
+959,Jun '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,8.7
+960,Jun '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,3.9
+961,Jun '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.8
+962,Jun '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.1
+963,Jun '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,9.2
+964,Jun '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,3.9
+965,Jun '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,3.6
+966,Jun '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.5
+967,Jun '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.4
+968,Jun '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.3
+969,Jun '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,4.9
+970,Jun '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,4.5
+971,Jun '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.5
+972,Jun '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.4
+973,Jun '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.6
+974,Jun '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.6
+975,Jun '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,12.7
+976,Jun '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.4
+977,Jun '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,16.4
+978,Jun '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,14.4
+979,Jun '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,14.6
+980,Jun '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.7
+981,Jun '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,12.4
+982,Jun '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,12.6
+983,Jun '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,16.0
+984,Jun '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,20.7
+985,Jun '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,14.1
+986,Jun '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,14.6
+987,Jun '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,9.7
+988,Jun '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,9.8
+989,Jun '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,9.0
+990,Jun '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,13.7
+991,Jun '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,17.1
+992,Jun '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,9.3
+993,Jun '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,8.8
+994,Jun '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,6.8
+995,Jun '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.6
+996,Jun '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.7
+997,Jun '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,8.3
+998,Jun '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,12.3
+999,Jun '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,6.2
+1000,Jun '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,7.8
+1001,Jun '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,4.9
+1002,Jun '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,5.8
+1003,Jun '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,7.2
+1004,Jun '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.7
+1005,Jun '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.9
+1006,Jun '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.1
+1007,Jun '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,8.7
+1008,Jun '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.2
+1009,Jun '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.5
+1010,Jun '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.5
+1011,Jun '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,6.8
+1012,Jun '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.8
+1013,Jun '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,3.7
+1014,Jun '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.3
+1015,Jun '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.0
+1016,Jun '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.9
+1017,Jun '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,5.1
+1018,Jun '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.9
+1019,Jun '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.9
+1020,Aug '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.7
+1021,Aug '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.6
+1022,Aug '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.0
+1023,Aug '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,7.6
+1024,Aug '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.4
+1025,Aug '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.6
+1026,Aug '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.7
+1027,Aug '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,6.0
+1028,Aug '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.6
+1029,Aug '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,3.6
+1030,Aug '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.4
+1031,Aug '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.0
+1032,Aug '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.6
+1033,Jun '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,7.6
+1034,Jun '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,9.0
+1035,Jun '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,9.5
+1036,Jun '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,9.4
+1037,Jun '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,10.7
+1038,Jun '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,4.7
+1039,Jul '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,9.5
+1040,Jul '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,9.5
+1041,Jul '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,10.7
+1042,Jul '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,13.1
+1043,Jul '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,8.2
+1044,Jul '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,8.2
+1045,Jul '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,6.3
+1046,Jul '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.2
+1047,Jul '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.3
+1048,Jul '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.3
+1049,Jul '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,6.3
+1050,Jul '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.0
+1051,Jul '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,4.9
+1052,Jul '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.2
+1053,Jul '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.4
+1054,Jul '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.2
+1055,Jul '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.3
+1056,Jul '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.0
+1057,Jul '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,5.3
+1058,Jul '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.3
+1059,Jul '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.1
+1060,Jul '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,10.9
+1061,Jul '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,12.5
+1062,Jul '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,13.9
+1063,Jul '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,12.2
+1064,Jul '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,11.4
+1065,Jul '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.4
+1066,Jul '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.5
+1067,Jul '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,11.4
+1068,Jul '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,12.7
+1069,Jul '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,14.6
+1070,Jul '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,12.7
+1071,Jul '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,12.2
+1072,Jul '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,10.2
+1073,Jul '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,11.6
+1074,Jul '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.9
+1075,Jul '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,12.6
+1076,Jul '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,16.3
+1077,Jul '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,11.9
+1078,Jul '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,10.6
+1079,Jul '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,10.6
+1080,Jul '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,9.4
+1081,Jul '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,11.4
+1082,Jul '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,10.5
+1083,Jul '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,14.1
+1084,Jul '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,10.6
+1085,Jul '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,11.0
+1086,Jul '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,8.3
+1087,Jul '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,3.8
+1088,Jul '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,3.7
+1089,Jul '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,5.2
+1090,Jul '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,6.4
+1091,Jul '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,4.4
+1092,Jul '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,3.8
+1093,Jul '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,4.0
+1094,Jul '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.4
+1095,Jul '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.2
+1096,Jul '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,4.9
+1097,Jul '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,6.2
+1098,Jul '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.6
+1099,Jul '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.5
+1100,Jul '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,3.7
+1101,Jul '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.4
+1102,Jul '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,12.7
+1103,Jul '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.0
+1104,Jul '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,16.6
+1105,Jul '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,13.9
+1106,Jul '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,12.7
+1107,Jul '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.6
+1108,Jul '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,11.3
+1109,Jul '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,11.9
+1110,Jul '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,13.4
+1111,Jul '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,16.6
+1112,Jul '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,14.4
+1113,Jul '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,12.3
+1114,Jul '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,9.4
+1115,Jul '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,9.3
+1116,Jul '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,8.1
+1117,Jul '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,11.8
+1118,Jul '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,14.4
+1119,Jul '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,9.5
+1120,Jul '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,8.1
+1121,Jul '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,6.9
+1122,Jul '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.5
+1123,Jul '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.7
+1124,Jul '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,7.2
+1125,Jul '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,9.3
+1126,Jul '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,7.8
+1127,Jul '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,6.5
+1128,Jul '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.0
+1129,Jul '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,6.3
+1130,Jul '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,6.7
+1131,Jul '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,8.4
+1132,Jul '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.3
+1133,Jul '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.6
+1134,Jul '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,7.3
+1135,Jul '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.4
+1136,Jul '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.7
+1137,Jul '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.3
+1138,Jul '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.7
+1139,Jul '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,9.9
+1140,Jul '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,3.8
+1141,Jul '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.4
+1142,Jul '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.0
+1143,Jul '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.9
+1144,Jul '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.8
+1145,Jul '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.7
+1146,Jul '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.9
+1147,Jul '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.7
+1148,Jul '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,4.6
+1149,Jul '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,3.7
+1150,Jul '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,9.6
+1151,Jul '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.7
+1152,Jul '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,10.6
+1153,Jul '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,11.7
+1154,Jul '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,9.0
+1155,Jul '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,7.1
+1156,Jul '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,8.0
+1157,Jul '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,6.0
+1158,Jul '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,7.6
+1159,Jul '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,7.7
+1160,Jul '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,10.6
+1161,Jul '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,8.8
+1162,Jul '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,9.3
+1163,Jul '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,6.6
+1164,Jul '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,6.7
+1165,Jul '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,7.9
+1166,Jul '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,9.0
+1167,Jul '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,9.7
+1168,Jul '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,9.9
+1169,Jul '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,10.0
+1170,Jul '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,5.1
+1171,Aug '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,10.0
+1172,Aug '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,11.1
+1173,Aug '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,13.4
+1174,Aug '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,19.3
+1175,Aug '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,10.1
+1176,Aug '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,10.2
+1177,Aug '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,6.9
+1178,Aug '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.0
+1179,Aug '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,6.3
+1180,Aug '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.8
+1181,Aug '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,8.5
+1182,Aug '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,6.0
+1183,Aug '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.8
+1184,Aug '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.4
+1185,Aug '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.3
+1186,Aug '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,6.0
+1187,Aug '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.4
+1188,Aug '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.3
+1189,Aug '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,6.0
+1190,Aug '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.9
+1191,Aug '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.4
+1192,Aug '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.1
+1193,Aug '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,11.7
+1194,Aug '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,12.8
+1195,Aug '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,15.0
+1196,Aug '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,13.0
+1197,Aug '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,13.1
+1198,Aug '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.3
+1199,Aug '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,9.4
+1200,Aug '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,11.7
+1201,Aug '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,13.4
+1202,Aug '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,14.7
+1203,Aug '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,13.2
+1204,Aug '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,13.3
+1205,Aug '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,9.1
+1206,Aug '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,12.2
+1207,Aug '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,13.1
+1208,Aug '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,13.7
+1209,Aug '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,21.1
+1210,Aug '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,12.5
+1211,Aug '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,14.1
+1212,Aug '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.9
+1213,Aug '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,10.4
+1214,Aug '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,12.0
+1215,Aug '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,12.3
+1216,Aug '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,17.7
+1217,Aug '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,11.3
+1218,Aug '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,12.1
+1219,Aug '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,8.3
+1220,Aug '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.4
+1221,Aug '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,4.4
+1222,Aug '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.2
+1223,Aug '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,7.3
+1224,Aug '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,5.1
+1225,Aug '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,4.4
+1226,Aug '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,4.1
+1227,Aug '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,5.2
+1228,Aug '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.7
+1229,Aug '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,5.8
+1230,Aug '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,6.8
+1231,Aug '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,5.0
+1232,Aug '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.9
+1233,Aug '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,4.1
+1234,Aug '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.3
+1235,Aug '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,13.2
+1236,Aug '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.1
+1237,Aug '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,17.2
+1238,Aug '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,16.0
+1239,Aug '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,14.7
+1240,Aug '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,10.1
+1241,Aug '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,10.9
+1242,Aug '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,12.5
+1243,Aug '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,14.0
+1244,Aug '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,17.1
+1245,Aug '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,15.0
+1246,Aug '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,14.3
+1247,Aug '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,10.0
+1248,Aug '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,9.1
+1249,Aug '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,9.3
+1250,Aug '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,12.9
+1251,Aug '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,16.1
+1252,Aug '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,9.5
+1253,Aug '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,8.8
+1254,Aug '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,7.1
+1255,Aug '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.7
+1256,Aug '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.8
+1257,Aug '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,8.1
+1258,Aug '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,11.6
+1259,Aug '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,8.6
+1260,Aug '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,8.0
+1261,Aug '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.6
+1262,Aug '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,5.9
+1263,Aug '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,7.1
+1264,Oct '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,9.1
+1265,Oct '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,9.0
+1266,Oct '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,12.4
+1267,Oct '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,15.6
+1268,Oct '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,11.3
+1269,Aug '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.9
+1270,Aug '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.7
+1271,Aug '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,5.5
+1272,Aug '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.9
+1273,Aug '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,5.0
+1274,Aug '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,4.0
+1275,Aug '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,9.3
+1276,Aug '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.5
+1277,Aug '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,10.7
+1278,Aug '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,13.3
+1279,Aug '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,9.1
+1280,Aug '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,8.3
+1281,Aug '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,8.3
+1282,Aug '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,6.1
+1283,Aug '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,7.6
+1284,Aug '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,8.2
+1285,Aug '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.3
+1286,Aug '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,10.7
+1287,Aug '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,9.3
+1288,Aug '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,8.0
+1289,Aug '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,6.5
+1290,Aug '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,8.0
+1291,Aug '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,8.8
+1292,Aug '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,9.6
+1293,Aug '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,11.1
+1294,Aug '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,9.9
+1295,Aug '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,6.8
+1296,Sep '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,10.6
+1297,Sep '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,11.3
+1298,Sep '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,13.9
+1299,Sep '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,16.9
+1300,Sep '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,11.0
+1301,Sep '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,11.3
+1302,Sep '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,7.7
+1303,Sep '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,4.8
+1304,Sep '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.6
+1305,Sep '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.4
+1306,Sep '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,6.9
+1307,Sep '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.4
+1308,Sep '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.8
+1309,Sep '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.2
+1310,Sep '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.4
+1311,Sep '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.8
+1312,Sep '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.0
+1313,Sep '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.1
+1314,Sep '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,6.4
+1315,Sep '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,6.2
+1316,Sep '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.4
+1317,Sep '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.9
+1318,Sep '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,11.7
+1319,Sep '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,14.0
+1320,Sep '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,15.4
+1321,Sep '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,14.0
+1322,Sep '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,13.6
+1323,Sep '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.6
+1324,Sep '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,10.8
+1325,Sep '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,12.3
+1326,Sep '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,14.9
+1327,Sep '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,16.7
+1328,Sep '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,14.4
+1329,Sep '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,14.1
+1330,Sep '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,9.4
+1331,Sep '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,11.9
+1332,Sep '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.9
+1333,Sep '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,12.8
+1334,Sep '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,18.1
+1335,Sep '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,13.2
+1336,Sep '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,12.9
+1337,Sep '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.8
+1338,Sep '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,9.0
+1339,Sep '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,11.4
+1340,Sep '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,11.2
+1341,Sep '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,15.2
+1342,Sep '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,12.8
+1343,Sep '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,12.3
+1344,Sep '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,9.0
+1345,Sep '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.5
+1346,Sep '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,4.5
+1347,Sep '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,7.0
+1348,Sep '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,10.2
+1349,Sep '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,4.8
+1350,Sep '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,4.4
+1351,Sep '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,4.0
+1352,Sep '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,5.3
+1353,Sep '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.6
+1354,Sep '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,6.0
+1355,Sep '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,8.7
+1356,Sep '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,5.0
+1357,Sep '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,5.0
+1358,Sep '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,4.2
+1359,Sep '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.4
+1360,Sep '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,13.0
+1361,Sep '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.0
+1362,Sep '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,15.6
+1363,Sep '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,15.4
+1364,Sep '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,16.6
+1365,Sep '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.8
+1366,Sep '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,10.9
+1367,Sep '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,12.9
+1368,Sep '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,14.3
+1369,Sep '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,17.1
+1370,Sep '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,14.8
+1371,Sep '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,15.9
+1372,Sep '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,9.7
+1373,Sep '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,9.8
+1374,Sep '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,9.3
+1375,Sep '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,13.8
+1376,Sep '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,16.2
+1377,Sep '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,9.8
+1378,Sep '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,10.8
+1379,Sep '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,7.3
+1380,Sep '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.7
+1381,Sep '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,7.3
+1382,Sep '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,8.4
+1383,Sep '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,11.3
+1384,Sep '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,8.1
+1385,Sep '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,7.4
+1386,Sep '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.2
+1387,Sep '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,6.0
+1388,Sep '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,7.6
+1389,Sep '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.8
+1390,Sep '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.5
+1391,Sep '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.9
+1392,Sep '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,7.7
+1393,Sep '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.0
+1394,Sep '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.9
+1395,Sep '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.5
+1396,Sep '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,6.1
+1397,Sep '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.2
+1398,Sep '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,4.5
+1399,Sep '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.7
+1400,Sep '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.4
+1401,Sep '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,8.2
+1402,Sep '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,5.0
+1403,Sep '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,6.2
+1404,Sep '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,6.2
+1405,Sep '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,5.0
+1406,Sep '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,5.3
+1407,Sep '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,4.1
+1408,Sep '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,9.3
+1409,Sep '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.9
+1410,Sep '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,11.2
+1411,Sep '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,12.7
+1412,Sep '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,10.2
+1413,Sep '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,8.5
+1414,Sep '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,7.5
+1415,Sep '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,6.3
+1416,Sep '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,7.7
+1417,Sep '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,8.9
+1418,Sep '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,12.3
+1419,Sep '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,8.2
+1420,Sep '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,8.4
+1421,Sep '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,6.0
+1422,Sep '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,7.0
+1423,Sep '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,7.3
+1424,Sep '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,9.8
+1425,Sep '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,10.2
+1426,Sep '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,10.5
+1427,Sep '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,9.9
+1428,Sep '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,6.3
+1429,Oct '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,9.7
+1430,Oct '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,9.7
+1431,Oct '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,11.6
+1432,Oct '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,13.7
+1433,Oct '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,9.6
+1434,Oct '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,8.9
+1435,Oct '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,8.8
+1436,Oct '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.4
+1437,Oct '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.5
+1438,Oct '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.4
+1439,Oct '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,6.5
+1440,Oct '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.1
+1441,Oct '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.1
+1442,Oct '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.4
+1443,Oct '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.7
+1444,Oct '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.7
+1445,Oct '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.4
+1446,Oct '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.5
+1447,Oct '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,6.0
+1448,Oct '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.7
+1449,Oct '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.7
+1450,Oct '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,11.5
+1451,Oct '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,12.8
+1452,Oct '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,14.4
+1453,Oct '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,16.4
+1454,Oct '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,15.2
+1455,Oct '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,13.0
+1456,Oct '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,9.7
+1457,Oct '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,11.6
+1458,Oct '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,13.6
+1459,Oct '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,17.6
+1460,Oct '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,21.7
+1461,Oct '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,17.6
+1462,Oct '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,15.1
+1463,Oct '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,10.2
+1464,Oct '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,11.6
+1465,Oct '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,11.6
+1466,Oct '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,11.7
+1467,Oct '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,17.1
+1468,Oct '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,12.4
+1469,Oct '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,11.8
+1470,Oct '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.5
+1471,Oct '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,9.7
+1472,Oct '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,10.1
+1473,Oct '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,10.6
+1474,Oct '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,16.0
+1475,Oct '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,10.6
+1476,Oct '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,10.4
+1477,Oct '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,7.8
+1478,Oct '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.5
+1479,Oct '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,4.5
+1480,Oct '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.3
+1481,Oct '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,10.8
+1482,Oct '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,5.7
+1483,Oct '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,4.4
+1484,Oct '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,4.6
+1485,Oct '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,5.0
+1486,Oct '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.6
+1487,Oct '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,5.6
+1488,Oct '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,8.7
+1489,Oct '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,5.2
+1490,Oct '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.7
+1491,Oct '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,4.4
+1492,Oct '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.7
+1493,Oct '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,12.7
+1494,Oct '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.5
+1495,Oct '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,15.9
+1496,Oct '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,16.6
+1497,Oct '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,12.9
+1498,Oct '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,11.8
+1499,Oct '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,11.2
+1500,Oct '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,12.2
+1501,Oct '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,14.7
+1502,Oct '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,17.6
+1503,Oct '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,16.1
+1504,Oct '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,12.5
+1505,Oct '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,11.8
+1506,Oct '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,8.8
+1507,Oct '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,8.8
+1508,Oct '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.9
+1509,Oct '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.7
+1510,Oct '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,8.2
+1511,Oct '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,11.0
+1512,Oct '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,7.6
+1513,Oct '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,6.8
+1514,Oct '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.2
+1515,Oct '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,6.1
+1516,Oct '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,6.7
+1517,Oct '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.9
+1518,Oct '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.3
+1519,Oct '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.3
+1520,Oct '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,7.5
+1521,Oct '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.4
+1522,Oct '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,4.0
+1523,Oct '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.4
+1524,Oct '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.8
+1525,Oct '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,9.6
+1526,Oct '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,4.2
+1527,Oct '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.1
+1528,Oct '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.9
+1529,Oct '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,8.5
+1530,Oct '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,5.2
+1531,Oct '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,6.3
+1532,Oct '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,6.1
+1533,Oct '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,5.2
+1534,Oct '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,5.1
+1535,Oct '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,5.0
+1536,Oct '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,9.4
+1537,Oct '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.0
+1538,Oct '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,9.9
+1539,Oct '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,11.7
+1540,Oct '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,9.2
+1541,Oct '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,7.7
+1542,Oct '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,8.1
+1543,Oct '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,6.3
+1544,Oct '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,7.3
+1545,Oct '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,8.1
+1546,Oct '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.8
+1547,Oct '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,9.2
+1548,Oct '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,7.2
+1549,Oct '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,6.3
+1550,Oct '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,6.3
+1551,Oct '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,7.7
+1552,Oct '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,8.8
+1553,Oct '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,9.8
+1554,Oct '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,9.7
+1555,Oct '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,7.5
+1556,Oct '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,5.8
+1557,Nov '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,10.1
+1558,Nov '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,10.5
+1559,Nov '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,12.4
+1560,Nov '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,16.5
+1561,Nov '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,10.3
+1562,Nov '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,10.5
+1563,Nov '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,7.1
+1564,Nov '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,5.1
+1565,Nov '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.5
+1566,Nov '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.4
+1567,Nov '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,7.4
+1568,Nov '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,5.2
+1569,Nov '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.5
+1570,Nov '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.2
+1571,Nov '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.4
+1572,Nov '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.7
+1573,Nov '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.2
+1574,Nov '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,7.1
+1575,Nov '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,6.3
+1576,Nov '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,6.2
+1577,Nov '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.5
+1578,Nov '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,12.1
+1579,Nov '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,12.5
+1580,Nov '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,14.4
+1581,Nov '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,18.5
+1582,Nov '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,15.3
+1583,Nov '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,15.6
+1584,Nov '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,9.3
+1585,Nov '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,11.3
+1586,Nov '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,13.1
+1587,Nov '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,16.6
+1588,Nov '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,22.4
+1589,Nov '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,16.1
+1590,Nov '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,15.9
+1591,Nov '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,9.6
+1592,Nov '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,12.4
+1593,Nov '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,12.4
+1594,Nov '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,12.0
+1595,Nov '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,18.9
+1596,Nov '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,11.6
+1597,Nov '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,13.3
+1598,Nov '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,9.2
+1599,Nov '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,9.9
+1600,Nov '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,10.7
+1601,Nov '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,10.7
+1602,Nov '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,17.6
+1603,Nov '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,9.4
+1604,Nov '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,12.7
+1605,Nov '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,7.7
+1606,Nov '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.6
+1607,Nov '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,4.6
+1608,Nov '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.4
+1609,Nov '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,9.3
+1610,Nov '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,4.8
+1611,Nov '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,4.5
+1612,Nov '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,4.0
+1613,Nov '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.9
+1614,Nov '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.6
+1615,Nov '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,5.6
+1616,Nov '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,6.7
+1617,Nov '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,5.0
+1618,Nov '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.7
+1619,Nov '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,4.2
+1620,Nov '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.9
+1621,Nov '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,13.4
+1622,Nov '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,15.3
+1623,Nov '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,17.4
+1624,Nov '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,16.4
+1625,Nov '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,16.9
+1626,Nov '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,10.6
+1627,Nov '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,11.0
+1628,Nov '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,12.4
+1629,Nov '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,14.7
+1630,Nov '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,18.5
+1631,Nov '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,14.6
+1632,Nov '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,14.7
+1633,Nov '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,10.6
+1634,Nov '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,9.0
+1635,Nov '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,9.0
+1636,Nov '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,12.5
+1637,Nov '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,16.5
+1638,Nov '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,11.0
+1639,Nov '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,13.6
+1640,Nov '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,7.8
+1641,Nov '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.9
+1642,Nov '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.8
+1643,Nov '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,8.1
+1644,Nov '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,11.2
+1645,Nov '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,7.4
+1646,Nov '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,6.8
+1647,Nov '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,5.6
+1648,Nov '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,6.3
+1649,Nov '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,7.0
+1650,Nov '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.2
+1651,Nov '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,9.0
+1652,Nov '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.6
+1653,Nov '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,7.1
+1654,Nov '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.9
+1655,Nov '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,4.3
+1656,Nov '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.7
+1657,Nov '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.9
+1658,Nov '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.5
+1659,Nov '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,3.8
+1660,Nov '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.8
+1661,Nov '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.4
+1662,Nov '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.8
+1663,Nov '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,5.2
+1664,Nov '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.9
+1665,Nov '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,6.2
+1666,Nov '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,5.0
+1667,Nov '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,5.4
+1668,Nov '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,4.1
+1669,Nov '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,9.2
+1670,Nov '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.5
+1671,Nov '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,9.9
+1672,Nov '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,12.2
+1673,Nov '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,8.3
+1674,Nov '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,7.5
+1675,Nov '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,7.0
+1676,Nov '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,6.2
+1677,Nov '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,6.8
+1678,Nov '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,8.3
+1679,Nov '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,11.9
+1680,Nov '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,8.2
+1681,Nov '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,8.2
+1682,Nov '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,6.0
+1683,Nov '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,5.7
+1684,Nov '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,6.6
+1685,Nov '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,9.1
+1686,Nov '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,9.1
+1687,Nov '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.7
+1688,Nov '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,8.1
+1689,Nov '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,5.1
+1690,Dec '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.2,9.3
+1691,Dec '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),10.0,10.7
+1692,Dec '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.3,12.6
+1693,Dec '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.5,16.2
+1694,Dec '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),9.8,8.6
+1695,Dec '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),9.5,9.4
+1696,Dec '18,Adelaide,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),6.6,6.5
+1697,Dec '18,Bathurst,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.1,4.7
+1698,Dec '18,Bathurst,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),5.2,5.4
+1699,Dec '18,Bathurst,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.9,5.3
+1700,Dec '18,Bathurst,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),7.0,5.6
+1701,Dec '18,Bathurst,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.7,4.8
+1702,Dec '18,Bathurst,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),5.0,5.1
+1703,Dec '18,Bathurst,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.1,4.0
+1704,Dec '18,Bathurst,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.3,5.0
+1705,Dec '18,Bathurst,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),5.4,5.7
+1706,Dec '18,Bathurst,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.6,6.0
+1707,Dec '18,Bathurst,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),6.1,6.4
+1708,Dec '18,Bathurst,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),5.5,5.7
+1709,Dec '18,Bathurst,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),5.3,5.7
+1710,Dec '18,Bathurst,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),4.2,4.3
+1711,Dec '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),10.6,10.9
+1712,Dec '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.7,13.0
+1713,Dec '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),13.2,14.3
+1714,Dec '18,Dundas,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),13.7,17.4
+1715,Dec '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),13.3,12.3
+1716,Dec '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.9,12.7
+1717,Dec '18,Dundas,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.8,8.3
+1718,Dec '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),9.4,10.1
+1719,Dec '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),12.3,13.7
+1720,Dec '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),13.8,15.8
+1721,Dec '18,Dundas,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.1,19.2
+1722,Dec '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.9,14.5
+1723,Dec '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),14.1,14.5
+1724,Dec '18,Dundas,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),9.4,9.1
+1725,Dec '18,Front,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.9,10.8
+1726,Dec '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.5,12.8
+1727,Dec '18,Front,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),11.8,11.6
+1728,Dec '18,Front,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),17.3,17.0
+1729,Dec '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),11.1,11.2
+1730,Dec '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),12.4,12.9
+1731,Dec '18,Front,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),8.5,8.8
+1732,Dec '18,Front,Westbound,Yonge,Bathurst,Weekday,AM Peak (07:00-10:00),9.0,8.0
+1733,Dec '18,Front,Westbound,Yonge,Bathurst,Weekday,Evening (19:00-23:00),10.1,10.6
+1734,Dec '18,Front,Westbound,Yonge,Bathurst,Weekday,Midday (10:00-16:00),9.7,9.7
+1735,Dec '18,Front,Westbound,Yonge,Bathurst,Weekday,PM Peak (16:00-19:00),14.3,13.7
+1736,Dec '18,Front,Westbound,Yonge,Bathurst,Weekend,Afternoon (12:00-17:00),8.9,8.4
+1737,Dec '18,Front,Westbound,Yonge,Bathurst,Weekend,Evening (17:00-23:00),10.4,10.1
+1738,Dec '18,Front,Westbound,Yonge,Bathurst,Weekend,Morning (08:00-12:00),8.5,7.2
+1739,Dec '18,Jarvis,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),4.1,4.3
+1740,Dec '18,Jarvis,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),3.9,4.5
+1741,Dec '18,Jarvis,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),6.0,6.4
+1742,Dec '18,Jarvis,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),8.5,7.6
+1743,Dec '18,Jarvis,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),4.6,5.0
+1744,Dec '18,Jarvis,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.7,4.8
+1745,Dec '18,Jarvis,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),3.8,3.8
+1746,Dec '18,Jarvis,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),4.7,4.8
+1747,Dec '18,Jarvis,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,4.7
+1748,Dec '18,Jarvis,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.3,5.6
+1749,Dec '18,Jarvis,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),4.8,6.3
+1750,Dec '18,Jarvis,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.5,4.9
+1751,Dec '18,Jarvis,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.3,4.8
+1752,Dec '18,Jarvis,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.8,4.1
+1753,Dec '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,AM Peak (07:00-10:00),11.3,12.3
+1754,Dec '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Evening (19:00-23:00),11.6,14.9
+1755,Dec '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,Midday (10:00-16:00),14.0,16.2
+1756,Dec '18,Queen,Eastbound,Bathurst,Jarvis,Weekday,PM Peak (16:00-19:00),16.4,17.0
+1757,Dec '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Afternoon (12:00-17:00),14.5,16.4
+1758,Dec '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Evening (17:00-23:00),13.1,15.0
+1759,Dec '18,Queen,Eastbound,Bathurst,Jarvis,Weekend,Morning (08:00-12:00),9.5,9.9
+1760,Dec '18,Queen,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),10.5,10.7
+1761,Dec '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),11.7,13.3
+1762,Dec '18,Queen,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),12.5,15.1
+1763,Dec '18,Queen,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),15.3,16.9
+1764,Dec '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),13.6,14.4
+1765,Dec '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),12.6,14.6
+1766,Dec '18,Queen,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),8.6,9.5
+1767,Dec '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,AM Peak (07:00-10:00),8.8,8.6
+1768,Dec '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Evening (19:00-23:00),8.1,10.1
+1769,Dec '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,Midday (10:00-16:00),11.4,12.4
+1770,Dec '18,Richmond,Westbound,Jarvis,Bathurst,Weekday,PM Peak (16:00-19:00),14.5,14.4
+1771,Dec '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Afternoon (12:00-17:00),8.2,9.5
+1772,Dec '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Evening (17:00-23:00),8.2,9.3
+1773,Dec '18,Richmond,Westbound,Jarvis,Bathurst,Weekend,Morning (08:00-12:00),6.3,6.7
+1774,Dec '18,Spadina,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.7
+1775,Dec '18,Spadina,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),6.8,6.6
+1776,Dec '18,Spadina,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.2,7.6
+1777,Dec '18,Spadina,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),12.1,8.8
+1778,Dec '18,Spadina,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.9,6.9
+1779,Dec '18,Spadina,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.7,6.5
+1780,Dec '18,Spadina,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),5.1,4.8
+1781,Dec '18,Spadina,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),5.8,6.0
+1782,Dec '18,Spadina,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.5,7.0
+1783,Dec '18,Spadina,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),7.1,7.4
+1784,Dec '18,Spadina,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),7.8,8.5
+1785,Dec '18,Spadina,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,7.9
+1786,Dec '18,Spadina,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),6.9,6.9
+1787,Dec '18,Spadina,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.9,5.5
+1788,Dec '18,University,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),3.0,3.9
+1789,Dec '18,University,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),4.2,4.8
+1790,Dec '18,University,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),4.8,5.5
+1791,Dec '18,University,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,8.3
+1792,Dec '18,University,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),3.0,4.0
+1793,Dec '18,University,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),3.6,4.7
+1794,Dec '18,University,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),2.8,3.1
+1795,Dec '18,University,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),8.4,7.1
+1796,Dec '18,University,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),4.5,5.3
+1797,Dec '18,University,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),5.4,5.8
+1798,Dec '18,University,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),5.1,6.1
+1799,Dec '18,University,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),4.0,4.7
+1800,Dec '18,University,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),4.4,5.0
+1801,Dec '18,University,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),3.3,3.7
+1802,Dec '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,AM Peak (07:00-10:00),8.4,8.0
+1803,Dec '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Evening (19:00-23:00),7.5,8.5
+1804,Dec '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,Midday (10:00-16:00),9.0,9.7
+1805,Dec '18,Wellington,Westbound,Jarvis,Blue Jays,Weekday,PM Peak (16:00-19:00),10.9,11.0
+1806,Dec '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Afternoon (12:00-17:00),9.0,8.8
+1807,Dec '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Evening (17:00-23:00),7.3,8.5
+1808,Dec '18,Wellington,Westbound,Jarvis,Blue Jays,Weekend,Morning (08:00-12:00),7.5,7.6
+1809,Dec '18,Yonge,Southbound,Dundas,Front,Weekday,AM Peak (07:00-10:00),5.4,5.5
+1810,Dec '18,Yonge,Southbound,Dundas,Front,Weekday,Evening (19:00-23:00),7.3,7.0
+1811,Dec '18,Yonge,Southbound,Dundas,Front,Weekday,Midday (10:00-16:00),7.0,7.9
+1812,Dec '18,Yonge,Southbound,Dundas,Front,Weekday,PM Peak (16:00-19:00),9.8,10.9
+1813,Dec '18,Yonge,Southbound,Dundas,Front,Weekend,Afternoon (12:00-17:00),6.8,8.3
+1814,Dec '18,Yonge,Southbound,Dundas,Front,Weekend,Evening (17:00-23:00),6.2,7.5
+1815,Dec '18,Yonge,Southbound,Dundas,Front,Weekend,Morning (08:00-12:00),4.9,5.4
+1816,Dec '18,Yonge,Northbound,Front,Dundas,Weekday,AM Peak (07:00-10:00),6.9,5.4
+1817,Dec '18,Yonge,Northbound,Front,Dundas,Weekday,Evening (19:00-23:00),6.8,7.7
+1818,Dec '18,Yonge,Northbound,Front,Dundas,Weekday,Midday (10:00-16:00),8.3,8.7
+1819,Dec '18,Yonge,Northbound,Front,Dundas,Weekday,PM Peak (16:00-19:00),8.1,9.5
+1820,Dec '18,Yonge,Northbound,Front,Dundas,Weekend,Afternoon (12:00-17:00),8.1,8.7
+1821,Dec '18,Yonge,Northbound,Front,Dundas,Weekend,Evening (17:00-23:00),7.6,8.2
+1822,Dec '18,Yonge,Northbound,Front,Dundas,Weekend,Morning (08:00-12:00),5.3,4.7

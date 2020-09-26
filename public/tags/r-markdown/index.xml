@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on XY&#39; sta304 website</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on XY&#39; sta304 website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Linear Relationship Between the Baseline and Average Times Collected By Bluetooth Sensors.</title>
+      <link>/2020/09/24/the-linear-relationship-between-the-baseline-and-average-times-collected-by-bluetooth-sensors./</link>
+      <pubDate>Thu, 24 Sep 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/09/24/the-linear-relationship-between-the-baseline-and-average-times-collected-by-bluetooth-sensors./</guid>
+      <description>#Abstraction
+The Bluetooth installed in the King St. Transit Pilot study area collects the information about the transportation details. The baseline travel time and the actual average travel time are the two variables which are closely related. The average travel time, which is the response variable, is going to change as the independent variable, which is the baseline travel time, changes. We use Wickham et al. (2019) We use Wickham, Hester, and Francois (2018)</description>
+    </item>
+    
+  </channel>
+</rss>
